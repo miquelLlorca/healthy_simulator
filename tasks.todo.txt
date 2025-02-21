@@ -1,0 +1,54 @@
+Investigacion programacion movil:
+	Leer pasos
+	Leer ubicacion
+
+2D o 3D:
+	Movida, hay que verlo
+
+Arbol de misiones
+	distintas ramas de misiones rollo 
+		haz ejercicio 3 veces a la semana
+		haz fuma 1 
+
+
+
+
+
+Stats
+	Hay muchas, cada una sube o baja segun tus acciones
+	Fuerza, Stamina, Sueño, Claridad mental, 	
+	
+Salud
+	PAsos
+	Fumar
+	No 	
+	bienestar mental
+
+Nivel
+	en base a que exactamente
+	indicador circular´
+	hay nivel maximo? 
+
+Mapas
+	Habitacion con sus muebles y objetos interactuables
+
+
+Efectos
+	al hacer ciertas cosas te hace efecto. ej monster te da energia a tope pero luego te deja frito
+
+Analizador de dieta:
+	le dices lo que comes y analiza los compuestos a groso modo
+	lo que comes afecta a como se ve tu personaje
+	se podria incluso hacer sugerencias pero tampoco somos nutricionistas asi que veremos
+
+
+
+
+
+
+
+
+
+
+
+

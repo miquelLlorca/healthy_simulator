@@ -1,0 +1,11 @@
+La 1a vez se hace: 
+1. git config --global user.name "naviaras"
+2. git config --global user.email "naviaras00@gmail.com"
+3. git clone https://github.com/miquelLlorca/healthy_simulator
+
+
+A partir de ahi en uso normal se debe hacer: 
+1. git pull origin      // coge todo lo nuevo en el repositorio
+2. git add * 		// guarda todos los cambios hechos  
+3. git commit -m "..."	// crea un "paquete" con los nuevos cambios
+4. git push		// sube los cambios al repositorio
